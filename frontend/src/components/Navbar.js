@@ -62,7 +62,7 @@ export default function Navbar({ login }) {
             </Link>
             <Link to="/createPost">
               <li>
-                <span class="material-symbols-outlined">add_box</span>t
+                <span class="material-symbols-outlined">add_box</span>
               </li>
             </Link>
             <Link style={{ marginLeft: "20px" }} to="/followingpost">
